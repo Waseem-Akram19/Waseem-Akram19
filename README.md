@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waseem-akram19&label=Profile%20views&color=0e75b6&style=flat" alt="waseem-akram19" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m a **FULL STACK DEVELOPER**
 
-- 💬 Ask me about **c++,c#,React Native, MERN Stack**
+- 💬 Ask me about **c++,c#,React Native, MERN Stack, MEAN Stack**
 
 - 📫 How to reach me **mianwaseemakram670@gmail.com**
 
