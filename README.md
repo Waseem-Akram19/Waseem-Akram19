@@ -7,7 +7,7 @@
 
 - 🌱 I’m a **FULL STACK DEVELOPER**
 
-- 💬 Ask me about **c++,c#,React Native, MERN Stack, MEAN Stack**
+- 💬 Ask me about **c++,c#, MERN Stack, MEAN Stack, Ruby on Rails**
 
 - 📫 How to reach me **mianwaseemakram670@gmail.com**
 
